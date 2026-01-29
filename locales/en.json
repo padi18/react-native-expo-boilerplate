@@ -1,0 +1,12 @@
+{
+  "home": {
+    "title": "Welcome to React Native Expo Boilerplate",
+    "text": "Edit app/(tabs)/index.tsx to edit this screen."
+  },
+  "profile": {
+    "title": "Profile"
+  },
+  "login": {
+    "title": "Login"
+  }
+}
